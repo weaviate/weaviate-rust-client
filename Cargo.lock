@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "weaviate-rust-client"
+name = "weaviate-client"
 version = "0.1.0"
